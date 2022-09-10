@@ -230,7 +230,7 @@ params:
             url: https://github.com/andreashih/covarying-collexeme-analysis
 
       - title: DOCX Search and Manipulation
-        content: A tool to search and Manipulate .DOCX files with python.
+        content: A tool to search and manipulate .DOCX files with python.
         image: /images/projects/mountains2.jpg
         # featured:
         #   name: Demo
