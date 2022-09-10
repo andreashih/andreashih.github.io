@@ -102,7 +102,7 @@ params:
     intro: "Hi, my name is"
     title: "Andrea Shih."
     subtitle: "I extract insights from data"
-    content: "A passionate data scientist."
+    content: 
     image: /images/bio-photo.jpg
     button:
       enable: true
