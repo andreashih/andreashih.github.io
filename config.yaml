@@ -235,10 +235,8 @@ params:
         # featured:
         #   name: Demo
         #   link: https://hugo-profile-2.netlify.app
-        # badges:
-        #   - "Hugo"
-        #   - "Bootstrap"
-        #   - "Javascript"
+        badges:
+          - "python"
         links:
           - icon: fab fa-github
             url: https://github.com/andreashih/docx-search-manipulation
