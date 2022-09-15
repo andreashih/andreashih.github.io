@@ -208,9 +208,9 @@ params:
       - title: Interactive Co-varying Collexeme Analysis (python version)
         content: An app that demonstrates the relations between word pairs and constructions. Written with python.
         image: /images/projects/mountains4.jpg
-        # featured:
-        #   name: Demo
-        #   link: https://hugo-profile.netlify.app
+        featured:
+          name: Demo
+          link: https://andreashih.shinyapps.io/cca-python/
         badges:
           - "python"
         links:
