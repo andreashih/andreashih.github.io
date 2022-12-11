@@ -210,7 +210,7 @@ params:
         image: /images/projects/mountains4.jpg
         featured:
           name: Demo
-          link: https://andreashih.shinyapps.io/cca-python/
+          link: https://andreashih.shinyapps.io/cca-python1/
         badges:
           - "python"
         links:
