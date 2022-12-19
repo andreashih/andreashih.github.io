@@ -146,6 +146,14 @@ params:
         company: "Wistron"
         companyUrl: "https://www.wistron.com/"
         date: "Sep 2022 - present"
+        content: |
+          - Developed a sourcer prediction model with machine learning that reached over 
+          90% accuracy and reduced 50% of the assignment time for the Digital Supply Chain 
+          Transformation Department
+          - Leveraged demand forecasting data and provided strategic business insights 
+          using data analytics and visualization with Python and R
+          - Provided customers with key parameters and statistical metrics of model performance
+
         # featuredLink:
         #   enable: true
         #   name: "View the project"
@@ -163,7 +171,10 @@ params:
         #   enable: true
         #   content: I worked as a software developer for more than one year in Amazon.
         content: |
-          - Data migration (from MongoDB to PostgreSQL)
+          - Increased data migration efficiency by 80% by converting arrays of video watch 
+          time to bitmaps
+          - Implemented data migration from PostgreSQL to MongoDB with sycopg2 and PyMongo in Python and Apache Nifi
+          - Executed queries and manipulated data from relational databases with SQL
 
   # Education
   education:
