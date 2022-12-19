@@ -146,6 +146,9 @@ params:
         company: "Wistron"
         companyUrl: "https://www.wistron.com/"
         date: "Sep 2022 - present"
+        info:
+          enable: true
+          content: Optimizing supply chain management through data analytics.
         content: |
           - Developed a sourcer prediction model with machine learning that reached over 
           90% accuracy and reduced 50% of the assignment time for the Digital Supply Chain 
@@ -158,18 +161,14 @@ params:
         #   enable: true
         #   name: "View the project"
         #   url: "https://example.com"
-        # content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
 
       - job: "Backend Engineering Intern"
         company: "Delta Electronics"
         companyUrl: "https://www.deltaww.com/en-US/index"
         date: "Jul 2021 - Aug 2021"
-        # featuredLink:
-        #   enable: true
-        #   url: "https://example.com"
-        # info:
-        #   enable: true
-        #   content: I worked as a software developer for more than one year in Amazon.
+        info:
+          enable: true
+          content: Performing database migration between PostgreSQL and MongoDB.
         content: |
           - Increased data migration efficiency by 80% by converting arrays of video watch 
           time to bitmaps
