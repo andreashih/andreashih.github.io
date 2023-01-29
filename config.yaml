@@ -17,7 +17,7 @@ Menus:
     - identifier: blog
       name: Blog
       #title: Blog posts
-      url: /the-andrea-journal
+      url: /blog
       weight: 1
     
     # - identifier: gallery
