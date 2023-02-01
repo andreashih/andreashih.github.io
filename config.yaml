@@ -136,6 +136,9 @@ params:
         - "R"
         - "SQL"
         - "Git"
+        - "Docker"
+        - "Kubernetes"
+        - "Azure"
 
   # Experience
   experience:
