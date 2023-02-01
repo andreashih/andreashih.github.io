@@ -151,7 +151,7 @@ params:
         date: "Sep 2022 - present"
         info:
           enable: true
-          content: Optimizing supply chain management through data analytics.
+          content: "Last updated: Dec 2022."
         content: |
           - Developed a sourcer prediction model with machine learning that reached over 
           90% accuracy and reduced 50% of the assignment time for the Digital Supply Chain 
@@ -171,7 +171,7 @@ params:
         date: "Jul 2021 - Aug 2021"
         info:
           enable: true
-          content: Performing database migration between PostgreSQL and MongoDB.
+          content: "Last updated: Sep 2022."
         content: |
           - Increased data migration efficiency by 80% by converting arrays of video watch 
           time to bitmaps
