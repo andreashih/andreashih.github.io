@@ -153,12 +153,9 @@ params:
           enable: true
           content: "Last updated: Dec 2022"
         content: |
-          - Developed a sourcer prediction model with machine learning that reached over 
-          90% accuracy and reduced 50% of the assignment time for the Digital Supply Chain 
-          Transformation Department
-          - Leveraged demand forecasting data and provided strategic business insights 
-          using data analytics and visualization with Python and R
-          - Provided customers with key parameters and statistical metrics of model performance
+          - Developed a machine learning model that reached over 90% accuracy and reduced 50% of the assignment time for the supply chain management department
+          - Leveraged demand forecasting data and provided strategic business insights using data analytics and visualization with Python and R
+          - Built DataOps and MLOps pipelines with GitLab CI, docker, and Azure
 
         # featuredLink:
         #   enable: true
