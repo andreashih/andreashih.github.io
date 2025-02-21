@@ -3,9 +3,9 @@ languageCode: "en-us"
 title: "Andrea Shih"
 theme: hugo-profile
 
-Paginate: 3
+#Paginate: 3
 disqusShortname: theandreajournal
-googleAnalytics: G-21NGD0NV8X
+#googleAnalytics: G-21NGD0NV8X
 
 markup:
   goldmark:
